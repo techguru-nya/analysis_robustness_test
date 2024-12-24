@@ -34,3 +34,4 @@ This project provides a tool to analyze and compare the characteristics of vehic
 
 ## Results
 The tool outputs comparison plots and reports that highlight differences in vehicle behavior across the classified data groups.
+![ローカル画像](./images/increase_boxplot_All.png)
